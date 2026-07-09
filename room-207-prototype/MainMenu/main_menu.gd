@@ -21,7 +21,7 @@ func _on_exit_pressed() -> void:
 
 
 func _on_new_game_pressed() -> void:
-	get_tree().change_scene_to_file("res://Ep1/Scenes/SceneA1.tscn")
+	pass
 
 
 func _on_animation_player_animation_finished(anim_name: StringName) -> void:

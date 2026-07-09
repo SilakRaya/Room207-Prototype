@@ -5,4 +5,5 @@
 [resource]
 font = ExtResource("1_p2tak")
 font_size = 50
-font_color = Color(1, 1, 1, 0.6942084)
+outline_size = 15
+outline_color = Color(0, 0, 0, 1)
