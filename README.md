@@ -84,3 +84,5 @@ But if you want to dive into the **rough drafts, scrapped storylines, and unfilt
 ## 📚 *Current Version*
 <img width="1083" height="195" alt="Screenshot 2026-07-09 193714" src="https://github.com/user-attachments/assets/fd9c08cb-9e07-411a-a9b0-3303b11e56f9" />
 
+Hello everyone!
+The state of SilakRaya as of now is in hiatus due to college stuff but we will be back! 08/08/2026
